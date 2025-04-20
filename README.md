@@ -1,3 +1,1 @@
-- Hi, I'm Nick.
-- I have my BS in physics and am interested in data analysis and software development for specialized materials engineering instruments.
-- I am currently tackling passion projects using Python and SQLite.
+Hi, I'm Nick. I have my BS in physics and am interested in data analysis and software development for specialized applied physics instrumentation. I am currently working on passion projects using Python and SQL.
